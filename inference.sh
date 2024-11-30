@@ -1,0 +1,1 @@
+python inference.py --round_num 2 --gpt_api <your gpt api key>

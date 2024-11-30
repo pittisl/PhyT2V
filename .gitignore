@@ -1,0 +1,17 @@
+*__pycache__/
+samples*/
+runs/
+checkpoints/
+master_ip
+logs/
+*.DS_Store
+.idea
+output*
+test*
+CogVideoX-5b
+eval_csv
+tarsier/Tarsier-34b
+videophy/videocon_physics
+data_df.csv
+videophy/mplug-owl-llama-7b-video
+videophy/owl-con

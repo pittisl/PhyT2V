@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python videocon/training/pipeline_video/entailment_inference.py --input_csv examples/sa_testing.csv --output_csv examples/videocon_physics_sa_testing.csv --checkpoint  videocon_physics
