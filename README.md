@@ -25,7 +25,7 @@ The primary objective of our PhyT2V design is to guide a well-trained LLM (e.g.,
 ### Environment
 
 ```bash
-git clone
+git clone git@github.com:pittisl/PhyT2V.git
 cd PhyGenBench
 conda env create -f environment.yaml
 conda activate PhyT2V
