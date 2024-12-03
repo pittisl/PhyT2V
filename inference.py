@@ -367,9 +367,9 @@ if __name__ == "__main__":
       refined_prompt = enhanced_prompt(client, prompt, physical_law, mismatch, str(score))
       with open(PROMPT_PATH, "w") as f:
           f.write(refined_prompt)
+      data_df[prompt_column] = refined_prompt
 
       print("-"*30+f"Round {i+1} video generation"+"-"*30)
       video_generation(PROMPT_PATH, video_output_path)
-      data_df[prompt_column] = prompt
 
       data_df.to_csv("data_df.csv", index_label="index")
