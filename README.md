@@ -1,7 +1,7 @@
 # PhyT2V
 This repository is the official implementation of [PhyT2V](). 
 
-> [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation]()  
+> [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/pdf/2412.00596)  
 > Qiyao Xue, Xiangyu Yin, Boyuan Yang, Wei Gao 
 
 ## 💡 News
