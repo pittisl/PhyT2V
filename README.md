@@ -20,7 +20,7 @@ The primary objective of our PhyT2V design is to guide a well-trained LLM (e.g.,
 
 <img src="static/prompt_template.png" alt="prompt_template" style="zoom:50%;" />
 
-## Examples
+## ✨Examples
 
 Here are some example showcase on the physcial-grounded video generation w and w/o PhyT2V
 
