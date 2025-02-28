@@ -1,12 +1,12 @@
 # PhyT2V
-This repository is the official implementation of [PhyT2V](). 
+This repository is the official implementation of [PhyT2V](https://arxiv.org/pdf/2412.00596). 
 
 > [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/pdf/2412.00596)  
 > Qiyao Xue, Xiangyu Yin, Boyuan Yang, Wei Gao 
 
 ## 💡 News
-
-- `2024/11/31`: We have released the codes. 
+- `2024/2/26`: PhyT2V has been accepted to [CVPR 2025](https://cvpr.thecvf.com/)!
+- `2024/11/31`: We have released the code. 
 
 ## 🎩Introduction 
 
