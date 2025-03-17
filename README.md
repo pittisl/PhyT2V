@@ -5,7 +5,7 @@ This repository is the official implementation of [PhyT2V](https://arxiv.org/pdf
 > Qiyao Xue, Xiangyu Yin, Boyuan Yang, Wei Gao 
 
 ## 💡 News
-- `2024/2/26`: PhyT2V has been accepted to [CVPR 2025](https://cvpr.thecvf.com/).
+- `2024/2/26`: PhyT2V has been accepted to [CVPR 2025](https://cvpr.thecvf.com/) 🎉.
 - `2024/11/31`: We have released the code. 
 
 ## 🎩Introduction 
