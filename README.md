@@ -1,7 +1,7 @@
 # PhyT2V
-This repository is the official implementation of [PhyT2V](https://arxiv.org/pdf/2412.00596). 
+This repository is the official implementation of [PhyT2V](https://openaccess.thecvf.com/content/CVPR2025/papers/Xue_PhyT2V_LLM-Guided_Iterative_Self-Refinement_for_Physics-Grounded_Text-to-Video_Generation_CVPR_2025_paper.pdf). 
 
-> [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/pdf/2412.00596)  
+> [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xue_PhyT2V_LLM-Guided_Iterative_Self-Refinement_for_Physics-Grounded_Text-to-Video_Generation_CVPR_2025_paper.pdf)  
 > Qiyao Xue, Xiangyu Yin, Boyuan Yang, Wei Gao 
 
 ## 💡 News
